@@ -1,0 +1,17 @@
+#history {
+    color:aqua;
+    background:black;
+    margin:10px;
+    border-style:dashed;
+    border-width:20px;
+    border-color:red;
+}
+
+div p{
+    color:darkblue;
+    font-size: 90px;
+    font-style: oblique;
+    align-self:center;
+}
+
+
